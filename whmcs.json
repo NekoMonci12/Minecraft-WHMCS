@@ -1,0 +1,21 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-servers",
+    "name": "panelstores",
+    "license": "proprietary",
+    "category": "provisioning",
+    "description": {
+      "name": "Panel Stores",
+      "tagline": "An Pterodactyl Panel Command Executor.",
+      "long": ""
+    },
+    "support": {
+      "docs_url": "https://dsc.gg/yuemi"
+    },
+    "authors": [
+      {
+        "name": "YueMi-Development",
+        "homepage": "https:\/\/clients.yuemi.org\/"
+      }
+    ]
+  }
